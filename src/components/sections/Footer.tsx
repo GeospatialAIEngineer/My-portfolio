@@ -69,7 +69,7 @@ export default function Footer() {
                 <SiGithub className="w-5 h-5" />
               </a>
               <a
-                href="https://github.com/GeospatialAIEngineer"
+                href="https://www.linkedin.com/in/hitimana-jean-marie-vianney"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-xl glass flex items-center justify-center text-slate-400 hover:text-cyan-400 transition-all hover:border-cyan-400/30"
